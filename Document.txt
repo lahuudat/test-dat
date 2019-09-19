@@ -8,3 +8,5 @@ sua file xem có bj len k
 check add code to last commit
 
 them code
+
+test rename
