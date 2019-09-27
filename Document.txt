@@ -3,7 +3,7 @@ sua lan 1
 
 commit 1
 
-sua file xem có bj len k
+sua file xem cÃ³ bj len k
 
 check add code to last commit
 
@@ -12,3 +12,4 @@ them code
 test rename
 
 test lan 2
+123
